@@ -1,4 +1,4 @@
-# Análisis II - Análisis Matemático II - Matemática 3 — Primer cuatrimestre de 2014
+# Análisis II — Primer cuatrimestre de 2014
 
 ## Prácticas
 
