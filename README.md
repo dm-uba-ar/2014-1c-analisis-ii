@@ -1,16 +1,38 @@
-# Análisis II — Primer cuatrimestre de 2014
+# Análisis II - Análisis Matemático II - Matemática 3
 
-## Prácticas
+Primer cuatrimestre 2014
 
-- [1era Lista de ejercicios prácticos: Repaso de integración y cambio de variables](practica0.pdf)
-- [2da Lista de ejercicios prácticos: Curvas, integral de longitud de arco e integrales curvilíneas](practica1.pdf)
-- [3era Lista de ejercicios prácticos: Integrales de superficie](practica2.pdf)
-- [4ta Lista de ejercicios prácticos: El teorema de Green](practica3.pdf)
-- [5ta Lista de ejercicios prácticos: Teoremas de Stokes y Gauss. Campos conservativos. Aplicaciones](practica4.pdf)
-- [6ta Lista de ejercicios prácticos: Ecuaciones diferenciales de 1er orden](practica5.pdf)
-- [7ma Lista de ejercicios prácticos: Ecuaciones de 2do orden y sistemas de 1er orden](practica6.pdf)
-- [8va Lista de ejercicios prácticos: Diagramas de fase](practica7.pdf)
+# Cálculo vectorial y ecuaciones diferenciales ordinarias 1er cuatrimestre 2014
 
-## Página original
+---
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2014/analisis_II)
+> Superficie de Moebius
+
+---
+
+
+
+**Novedades**
+
+
+El recuperatorio del primer parcial será el sábado 19/7 a las 9hs en el Aula Magna del Pabellón I.
+El turno noche adelantará la entrega de los segundos parciales al día martes 8/7 a las 19hs en el bar del pabellón I. Quien no pueda concurrir puede pedir la nota vía mail, y podrá buscar el parcial el jueves 10/7 a las 11hs como se había anunciado en un principio.
+El lunes 07/07 comienzan las encuestas de FIN del 1er. cuatrimestre 2014.
+Recordamos que es obligatorio para los alumnos que las completen.
+Se recuerda que es obligatoria la lectura de las
+[normas de seguridad](http://www.dm.uba.ar/varios/normseg.html).
+
+---
+
+## Docentes
+
+---
+
+
+
+
+|  |
+| --- |
+| Clases prácticas (turno mañana) |
+| [Estanislao Herscovich](mailto:eherscov@dm.uba.ar)  - Juliana Osorio Morales - Sebastián Reca |
+|
